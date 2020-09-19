@@ -4,7 +4,7 @@
 
 ## Hello! 👋
 
-I started working on building small front-end projexts to excersize my css html and javascript skills. This is one of these projects and was part of "Front End Mentor" excersizes. Bellow is the Challenge and the links of the websites that I found the challenge:
+I started working on building small front-end projects to practice my css, html and javascript skills. This is one of these projects and was part of "Front End Mentor" exercise. Bellow is the Challenge and the links of the website that I found the challenge:
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
