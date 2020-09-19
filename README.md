@@ -8,12 +8,8 @@ I started working on building small front-end projects to practice my css, html 
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
-Here is the live result: (https://bagaski.github.io/coming-soon-page/)
-
-
-
 ## The challenge
 
 Your challenge is to build out this coming soon page and get it looking as close to the design as possible.
-
+Here is [the live result](https://bagaski.github.io/coming-soon-page/)
 
